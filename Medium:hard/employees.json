@@ -1,0 +1,64 @@
+{
+    "employees": [
+        {
+            "employeeID": 1,
+            "name": "Demetrius Flenaory",
+            "salary": 500000,
+            "department": "Sales"
+        },
+        {
+            "employeeID": 2,
+            "name": "Curtis Jackson",
+            "salary": 250000,
+            "department": "Marketing"
+        },
+        {
+            "employeeID": 3,
+            "name": "James St Patrick",
+            "salary": 250000,
+            "department": "Politics"
+        },
+        {
+            "employeeID": 4,
+            "name": "Dayvon Daquan Bennett",
+            "salary": 60000,
+            "department": "Security"
+        },
+        {
+            "employeeID": 5,
+            "name": "Caresha Romeka Brownlee",
+            "salary": 40000,
+            "department": "Advertisment"
+        },
+        {
+            "employeeID": 6,
+            "name": "Sean Combs",
+            "salary": 60000,
+            "department": "Human Resources"
+        },
+        {
+            "employeeID": 7,
+            "name": "Katt Williams",
+            "salary": 500000,
+            "department": "Marketing"
+        },
+        {
+            "employeeID": 8,
+            "name": "Belcalis Almánzar",
+            "salary": 200000,
+            "department": "Advertisment"
+        }, {
+            "employeeID": 9,
+            "name": "Lontrell Williams Jr",
+            "salary": 100000,
+            "department": "Marketing"
+        },
+        {
+            "employeeID": 10,
+            "name": "John F Kennedy",
+            "salary": 40000,
+            "department": "Sales"
+        }
+        
+    ]
+}
